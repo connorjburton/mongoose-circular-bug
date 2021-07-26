@@ -1,0 +1,8 @@
+{
+  "name": "mongoose-test",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^5.13.3"
+  }
+}
