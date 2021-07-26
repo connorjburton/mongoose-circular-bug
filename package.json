@@ -2,6 +2,9 @@
   "name": "mongoose-test",
   "license": "MIT",
   "main": "index.js",
+  "engines": {
+    "node": "16.5.0"
+  },
   "dependencies": {
     "mongoose": "^5.13.3"
   }
